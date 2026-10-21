@@ -3,7 +3,7 @@
 **Universidade Federal de Minas Gerais (UFMG)**  
 **Instituto de Ciências Exatas — Departamento de Ciência da Computação**  
 **Disciplina:** DCC207 — Algoritmos 2 (Prof. Renato Vimieiro)
-
+**Aluno:** Luiz Felipe Lima Costa
 ---
 
 ## 1. Visão Geral e Problema Abordado
